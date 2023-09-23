@@ -1,12 +1,21 @@
 .nav-color a{
     font-weight: 400;
     color: #563d7c;
+    font-size: 15px;
 }
 
 .nav-color .navbar-brand{
     font-weight: 500;
+    font-size: 17px;
 }
 
+ul {
+    list-style-type: none;
+}
+
+ul a {
+    text-decoration: none;
+}
 main {
     height: 611px;
     background-color: #6F5499;
@@ -14,4 +23,8 @@ main {
     text-shadow: 0 1px 0 rgba(0,0,0,.1);
     background-image: linear-gradient(to bottom,#563d7c 0,#6f5499 100%);
     background-repeat: repeat-x;
+}
+
+main .lib-logo {
+
 }
