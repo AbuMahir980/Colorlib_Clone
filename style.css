@@ -6,3 +6,10 @@
 .nav-color .navbar-brand{
     font-weight: 500;
 }
+
+main {
+    height: 611px;
+    background-color: #6F5499;
+    color: #CDBFE3;
+    
+}
