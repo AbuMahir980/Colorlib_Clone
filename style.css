@@ -1,0 +1,8 @@
+.nav-color a{
+    font-weight: 400;
+    color: #563d7c;
+}
+
+.nav-color .navbar-brand{
+    font-weight: 500;
+}
