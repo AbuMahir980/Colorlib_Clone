@@ -37,3 +37,7 @@ main .lib-logo {
     max-width: 500px;
     /* margin-bottom: 100px; */
 }
+
+.foot a {
+    color: #c1c1c1 Important;
+}
