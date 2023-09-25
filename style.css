@@ -24,7 +24,11 @@ main {
     background-image: linear-gradient(to bottom,#563d7c 0,#6f5499 100%);
     background-repeat: repeat-x;
 }
-
+@media (max-width: 540px) {
+    main{
+        height: 400px;
+    }
+}
 main .lib-logo {
     /* display: block; */
     width: 100%;
